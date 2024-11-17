@@ -11,7 +11,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             _22pr22103k_chetvergovaTheme {
-                GridScreen(cols = 6, rows = 6, picturePrefix = "anim")
+                GridScreen(cols = 6, rows = 6, picturePrefix = "anim") //вызываем гридскрин из gridscreen + картинки с префиксом anim
             }
         }
     }
