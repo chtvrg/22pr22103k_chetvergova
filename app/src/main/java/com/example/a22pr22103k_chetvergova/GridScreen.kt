@@ -119,4 +119,3 @@ enum class Status {
     CELL_OPEN, CELL_CLOSE, CELL_DELETE// Определение статусов ячеек
 }
 
-
