@@ -18,3 +18,5 @@ fun GridItem(resourceId: Int) {
             .padding(4.dp)
     )
 }
+
+арбуз
